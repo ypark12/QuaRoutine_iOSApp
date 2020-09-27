@@ -1,4 +1,4 @@
-# QuoRoutine_iOSApp
+# QuaRoutine_iOSApp
 iOS application for scheduling.
 
 Figma page:
